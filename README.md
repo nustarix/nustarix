@@ -2,4 +2,4 @@
 - 👀 I’m interested in **mathematics** and **literature**
 - 🌱 I’m currently learning **web development**
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me ...
+- 📫 You can reach via [Twitter](https://twitter.com/nustarix)
